@@ -3,7 +3,7 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "傀儡小屋",
+    title: "810C",
     // 站点描述
     description: "傀儡师的博客",
     // 站点logo
